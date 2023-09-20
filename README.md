@@ -1,6 +1,6 @@
 <h1 align="center">Hello! ✌️ I'm Andrea López 👩‍💻</h1>
 
-<h3 align="center">I'm codding from southest place in the world 🏔 Chile</h3>
+<h3 align="center">codding from southest place in the world 🏔 Chile</h3>
 
 ### About Me:
 
