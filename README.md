@@ -80,8 +80,8 @@
 
 <br>
 <div align="center" display="flex">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alopezgo&theme=white" alt="AndreaLopez" height="270px"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alopezgo&show_icons=true&locale=en&theme=white&langs_count=5" alt="AndreaLopez" height="270px" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alopezgo&theme=white" alt="AndreaLopez" height="200px"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alopezgo&show_icons=true&locale=en&theme=white&langs_count=5" alt="AndreaLopez" height="200px" />
 </div>
 
 <!-- <br>
