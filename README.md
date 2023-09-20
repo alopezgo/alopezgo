@@ -20,7 +20,7 @@
 
 :earth_americas: Connect with me: <a href="https://linkedin.com/in/andrealopezgo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Dhamary08/Email-Sign/master/linkedin-in.png" alt="Linkedin" height="25" width="25"/></a>
 
-<h2 align="center">Languages and Tools:</h2>
+<!--<h2 align="center">Languages and Tools:</h2>
 
 <p align="center"> 
     <a href="#" target="_blank"> <img
@@ -61,7 +61,7 @@
                 width="40" height="40" margin-right="3px"/> </a> 
     <a href="#" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php"
-                width="55" height="40" margin-right="3px"/> </a> --> 
+                width="55" height="40" margin-right="3px"/> </a>
     <a href="#" target="_blank"> <img
                 src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript"
                 width="40" height="40" margin-right="3px"/> </a> 
@@ -76,9 +76,10 @@
                 width="40" height="40" margin-right="3px"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
             target="_blank"></a>
-</p>
+</p>-->
+<br>
 <p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alopezgo&theme=white" alt="AndreaLopez" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alopezgo&show_icons=true&locale=en&theme=white&langs_count=3" alt="AndreaLopez" />;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alopezgo&show_icons=true&locale=en&theme=white" alt="AndreaLopez" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alopezgo&theme=white" alt="AndreaLopez" />
 </p>
