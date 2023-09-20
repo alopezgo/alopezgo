@@ -77,9 +77,14 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
             target="_blank"></a>
 </p>-->
+
 <br>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alopezgo&theme=white" alt="AndreaLopez" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alopezgo&show_icons=true&locale=en&theme=white&langs_count=3" alt="AndreaLopez" />;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alopezgo&show_icons=true&locale=en&theme=white" alt="AndreaLopez" />
-</p>
+<div align="center" display="flex">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alopezgo&theme=white" alt="AndreaLopez" height="270px"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alopezgo&show_icons=true&locale=en&theme=white&langs_count=5" alt="AndreaLopez" height="270px" />
+</div>
+
+<!-- <br>
+ <div>
+     <img align="center" src="https://github-readme-stats.vercel.app/api?username=alopezgo&show_icons=true&locale=en&theme=white" alt="AndreaLopez" />
+</div> -->
