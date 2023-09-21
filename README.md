@@ -4,7 +4,7 @@
 
 ### About Me:
 
-🔭 I’m currently working on automation QA testing
+🔭 I’m currently working on test automation
 
 🌱 I’m currently learning Spring Java
 
