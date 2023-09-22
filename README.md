@@ -14,7 +14,7 @@
 
 ⚡ Fun fact: I'm actually political scientist but one in love with code 
 
-:earth_americas: Connect with me: <a href="https://linkedin.com/in/andrealopezgo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Dhamary08/Email-Sign/master/linkedin-in.png" alt="Linkedin" height="25" width="25"/></a>
+:earth_americas: Connect with me: <a href="https://linkedin.com/in/andrealopezgo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Dhamary08/Email-Sign/master/linkedin-in.png" alt="Linkedin" height="20" width="20"/></a>
 
 <!--<h2 align="center">Languages and Tools:</h2>
 
