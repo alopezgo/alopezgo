@@ -8,10 +8,6 @@
 
 🌱 I’m currently learning Spring Java
 
-👯 I’m looking to collaborate on ETL/ ELT
-
-🤔 I’m looking for help with react
-
 💬 Ask me about automation or also data science 
 
 :link: How to reach me: **alopezgo1991@gmail.com**
